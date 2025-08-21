@@ -1,0 +1,16 @@
+Training Report
+
+Model Details:
+- Word Embedding: 4,000 words, 100 dimensions
+- LSTM Layer: 150 units
+- Output Layer: 4,000 units with softmax
+
+Training Settings:
+- Epochs: 5
+- Batch Size: 128
+- Optimizer: Adam (learning rate 0.001)
+- Loss Function: Sparse Categorical Crossentropy
+Generated Text (Prompt: "Artificial Intelligence will"):
+Sentence 1: artificial intelligence will continue to influence the world eve i totally agree with.
+Sentence 2: artificial intelligence will continue to influence the world eve i totally agree with.
+Sentence 3: artificial intelligence will continue to influence the world eve i totally agree with.
